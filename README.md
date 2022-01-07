@@ -11,3 +11,6 @@ Interpolates for all possible subset-combinations at this distance
 Calculates the difference between estimations and measured heights at each point and graphs them out
 @mcreelma
 mcreelma committed 29 seconds ago
+
+
+![15](https://user-images.githubusercontent.com/44550282/148471475-6c2cfb35-f3bf-4b7f-b0c1-35a84d7af041.jpg)
