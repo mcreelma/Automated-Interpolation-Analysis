@@ -10,3 +10,4 @@ Uses a user-defined subsection of a DEM to determine the optimal interpolative r
 * Calculates the difference between estimations and measured heights at each point and graphs them out
 
 ![15](https://user-images.githubusercontent.com/44550282/148471475-6c2cfb35-f3bf-4b7f-b0c1-35a84d7af041.jpg)
+ 
